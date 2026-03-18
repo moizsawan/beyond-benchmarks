@@ -80,7 +80,7 @@ pdflatex paper.tex && pdflatex paper.tex
 @article{awan2025beyond,
   title={Beyond Benchmarks: How Users Evaluate AI Chat Assistants},
   author={Awan, Moiz Sadiq and Munaf, Muhammad Salman and Noor, Muhammad Haris},
-  year={2025}
+  year={2026}
 }
 ```
 
