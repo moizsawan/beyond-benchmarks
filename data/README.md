@@ -119,9 +119,9 @@ Wave 1 used a 5-model checklist (ChatGPT, Claude, Gemini, Llama, Grok) plus "Oth
 If you use this data, please cite:
 
 ```bibtex
-@article{awan2025beyond,
+@article{awan2026beyond,
   title={Beyond Benchmarks: How Users Evaluate AI Chat Assistants},
   author={Awan, Moiz Sadiq and Munaf, Muhammad Salman and Noor, Muhammad Haris},
-  year={2025}
+  year={2026}
 }
 ```
