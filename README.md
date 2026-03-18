@@ -77,7 +77,7 @@ pdflatex paper.tex && pdflatex paper.tex
 ## Citation
 
 ```bibtex
-@article{awan2025beyond,
+@article{awan2026beyond,
   title={Beyond Benchmarks: How Users Evaluate AI Chat Assistants},
   author={Awan, Moiz Sadiq and Munaf, Muhammad Salman and Noor, Muhammad Haris},
   year={2026}
